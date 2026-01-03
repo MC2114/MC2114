@@ -6,7 +6,7 @@ I am a junior student studying at [**University of Massachusetts Amherst**][umas
 ## 🏢 Work Experience
 ### 💻 Internships
 - Data Science Intern @[**Save The Elephants**][ste] and @[**UMass Center for Data Science & Artificial Intelligence**][ds4cg] (Summer 2025)
-- Computer Vision Research Assistant @[Systems Towards Infrastructure Measurement and Analytics Laboratory (STIMA Lab)**][stima] (Fall 2024 - Spring 2025)
+- Computer Vision Research Assistant @[**Systems Towards Infrastructure Measurement and Analytics Laboratory (STIMA Lab)**][stima] (Fall 2024 - Spring 2025)
 - Software Engineer Intern @[**The New England First Amendment Coalition**][nefac] (Fall 2024 - Spring 2025)
 
 ### 🏫 On-Campus Activities
