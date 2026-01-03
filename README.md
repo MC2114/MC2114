@@ -2,7 +2,7 @@
 ---
 ## 👩‍💻 About Me
 I am a junior student studying at [**University of Massachusetts Amherst**][umass], double majoring in Computer Science and Mathematics. I printed my first "Hello World" in my freshman year (2023) through [**CICS 110: Foundations of Programming**][cics110], where I fell in love with coding and programming. Over the past 2 years, I have become heavily involved in AI/ML research, especially in Computer Vision, and building personal high-impact full-stack projects. My goal as an aspiring Software Engineer is to continue to learn, innovate and build new meaningful tech solutions!
----
+
 ## 🏢 Work Experience
 ### 💻 Internships
 - Data Science Intern @[**Save The Elephants**][ste] and @[**UMass Center for Data Science & Artificial Intelligence**][ds4cg] (Summer 2025)
