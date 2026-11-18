@@ -1,10 +1,12 @@
 # Hi there, I'm Chau 👋
 ---
 ## 👩‍💻 About Me
-I am a junior student studying at [**University of Massachusetts Amherst**][umass], double majoring in Computer Science and Mathematics. I printed my first "Hello World" in my freshman year (2023) through [**CICS 110: Foundations of Programming**][cics110], where I fell in love with coding and programming. Over the past 2 years, I have become heavily involved in AI/ML research, especially in Computer Vision, and building personal high-impact full-stack projects. My goal as an aspiring Software Engineer is to continue to learn, innovate and build new meaningful tech solutions!
+I am a senior student studying at [**University of Massachusetts Amherst**][umass], double majoring in Computer Science and Mathematics. I printed my first "Hello World" in my freshman year (2023) through [**CICS 110: Foundations of Programming**][cics110], where I fell in love with coding and programming. I love working on unexplored, ambiguous topics. Let's connect!
 
 ## 🏢 Work Experience
 ### 💻 Internships
+- Applied ML Intern @[**Shopify**][shopify] (Fall 2026)
+- Software Engineer Intern @[**UiPath**][uipath] (Summer 2026)
 - Data Science Intern @[**Save The Elephants**][ste] and @[**UMass Center for Data Science & Artificial Intelligence**][ds4cg] (Summer 2025)
 - Computer Vision Research Assistant @[**Systems Towards Infrastructure Measurement and Analytics Laboratory (STIMA Lab)**][stima] (Fall 2024 - Spring 2025)
 - Software Engineer Intern @[**The New England First Amendment Coalition**][nefac] (Fall 2024 - Spring 2025)
@@ -20,6 +22,8 @@ I am a junior student studying at [**University of Massachusetts Amherst**][umas
   [stima]: https://websites.umass.edu/jtaneja/
   [nefac]: https://nefac.org
   [hackher413]: https://www.hackher413.com
+  [uipath]: https://www.uipath.com/
+  [shopify]: https://www.shopify.com/
 ---
 ### 🧰 Technical Skills
 💻 Languages
